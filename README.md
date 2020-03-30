@@ -88,3 +88,4 @@ Flags:
    - pc: [Trojan-Qt5](https://github.com/TheWanderingCoel/Trojan-Qt5)
    - ios: [shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)
    - android: [igniter](https://github.com/trojan-gfw/igniter)
+# -原项目请访问:[Jrohy].(https://github.com/Jrohy/trojan)
